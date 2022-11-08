@@ -7,7 +7,9 @@
 
 **EJERCICIOS CAPITULO 1**
 
+1.1 solucion del ejercicio 2
 
+<img src="https://latex.codecogs.com/png.image?\dpi{110}v=\frac{1}{2}" title="https://latex.codecogs.com/png.image?\dpi{110}v=\frac{1}{2}" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **EJERcicios capitulo 2**
