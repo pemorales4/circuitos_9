@@ -18,6 +18,10 @@
 
 ![image](https://user-images.githubusercontent.com/93835587/200835109-73c2d925-cad2-4afe-9747-9ce76e60a682.png)
 
+1.3 Voltajes
+
+<img src="https://latex.codecogs.com/png.image?\dpi{110}\\V_{ac}=&space;2.89&space;v&space;~~~Respuesta\\&space;V_{dc}=&space;3.89&space;v&space;~~~&space;Respuesta" title="https://latex.codecogs.com/png.image?\dpi{110}\\V_{ac}= 2.89 v ~~~Respuesta\\ V_{dc}= 3.89 v ~~~ Respuesta" />
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
